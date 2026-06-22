@@ -12,19 +12,19 @@ This project presents an interactive HR Analytics Dashboard developed using Powe
 
 ### Executive Overview
 
-![Executive Overview](screenshots/page1.png)
+![Executive Overview](page1.png)
 
 ### Attrition Analysis
 
-![Attrition Analysis](screenshots/page2.png)
+![Attrition Analysis](page2.png)
 
 ### Advanced Insights
 
-![Advanced Insights](screenshots/page3.png)
+![Advanced Insights](page3.png)
 
 ### Employee Explorer
 
-![Employee Explorer](screenshots/page4.png)
+![Employee Explorer](page4.png)
 
 ## Key Features
 
